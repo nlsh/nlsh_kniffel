@@ -1,0 +1,64 @@
+.mod_nlsh_HtmlKniffel {
+    width: 170mm;
+}
+
+.mod_nlsh_HtmlKniffel table, td {
+border-collapse:collapse;
+border: 1px solid black;
+border-spacing: 0;
+}
+
+.mod_nlsh_HtmlKniffel .headline {
+    border: 2px solid black;
+}
+
+.mod_nlsh_HtmlKniffel .floatRight {
+    float: right;
+}
+
+.mod_nlsh_HtmlKniffel .spielSpaltenBreite{
+    padding-right: 3px;
+    padding-left: 3px;
+}
+
+.mod_nlsh_HtmlKniffel .doubleTopBottomBorder {
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    font-weight: bold;
+}
+
+.mod_nlsh_HtmlKniffel .tribleTopBottomBorder {
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+    font-weight: bold;
+}
+
+.mod_nlsh_HtmlKniffel .fourTopBottomBorder {
+    border-top: 4px solid black;
+    border-bottom: 4px solid black;
+    font-weight: bold;
+}
+
+.mod_nlsh_HtmlKniffel .doubleHeight {
+    height: 2em;
+}
+
+.mod_nlsh_HtmlKniffel .erlaeuterung {
+    font-size: xx-small;
+}
+
+.mod_nlsh_HtmlKniffel .endSumme{
+    color: red;
+}
+
+.mod_nlsh_HtmlKniffel .endSummeTop{
+    color: blue;
+}
+
+.mod_nlsh_HtmlKniffel .wurfel{
+    float:right;
+    margin-right: 3px;
+    margin-top: 3px;
+    width: 15px;
+    height: 15px;
+}
